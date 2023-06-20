@@ -66,12 +66,6 @@ function(record,runtime) {
     				log.debug({title:afterSubmit_offer,details:"TempArray[0] ="+TempArray[0]});
     				log.debug({title:afterSubmit_offer,details:"TempArray[1] ="+TempArray[1]});
     				
-    				/* I'm sorry na nalla mari tha keta wish panalanu ne yen tension aagara seri convey my wishes to
-    				 that bro seriya, Indhu unuda kovathula niyam iruku tha, sorry ma ini epdi la pesa mata promise 
-    				 konjama, lite ah, romba konjama consider pani start to excuse me Indhu kastama iruku atha,, Odambuku
-    				 paravala than pola, mail padichu ketila, ethachu positive reply kudutha paravala aanupu pa seriya
-    				 aporo odambu nalla aairuchu nu assalt ah irukatha take care.... I MISS YOU INDHUUUUUU */ 
-    				
     				var direct_edit = checkDirectFieldsOnOffer(scriptContext);
     				log.debug({title:'afterSubmit_bundle',details:"direct_edit ="+direct_edit});
     				
